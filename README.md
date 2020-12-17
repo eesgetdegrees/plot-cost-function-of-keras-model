@@ -2,6 +2,8 @@
 <p align="center">
 <img src="/images/J.PNG" height=300>
 </p>
+
+## Description
 Plot the cost function of a Keras (TensorFlow) model using matplotlib. In this example, I use linear regression on the Boston housing market dataset from Kaggle.
 
 ## YouTube Video
